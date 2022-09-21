@@ -28,8 +28,8 @@ São soluções prontas que padronizam a solução de problemas recorrentes.
 |----------------------------------------------------|-----------|-----------------------|
 |Abstract factory                                    |Adapter    |Interpreter            |
 |Factory method                                      |Bridge     |Template method        |
-|Builder                                             |Composite  |Chain of responsability|
-|Prototype                                           |Decorator  |Iterator               |
+|[Builder](./src/creational/builder/BUILDER.md)      |Composite  |Chain of responsability|
+|[Prototype](./src/creational/prototype/PROTOTYPE.md)|Decorator  |Iterator               |
 |[Singleton](./src/creational/singleton/SINGLETON.md)|Façade     |Command                |
 |                                                    |Flyweight  |Mediator               |
 |                                                    |Proxy      |Memento                |
