@@ -24,17 +24,24 @@ São soluções prontas que padronizam a solução de problemas recorrentes.
 - Se usados incorretamente, podem atrapalhar ao invés de ajudar.
 
 ## Padrões:
-|De criação                                          |Estrutural |Comportamental         |
-|----------------------------------------------------|-----------|-----------------------|
-|Abstract factory                                    |Adapter    |Interpreter            |
-|Factory method                                      |Bridge     |Template method        |
-|[Builder](./src/creational/builder/BUILDER.md)      |Composite  |Chain of responsability|
-|[Prototype](./src/creational/prototype/PROTOTYPE.md)|Decorator  |Iterator               |
-|[Singleton](./src/creational/singleton/SINGLETON.md)|Façade     |Command                |
-|                                                    |Flyweight  |Mediator               |
-|                                                    |Proxy      |Memento                |
-|                                                    |           |Observer               |
-|                                                    |           |State                  |
-|                                                    |           |Strategy               |
-|                                                    |           |Visitor                |
+|De criação      |Estrutural |Comportamental         |
+|----------------|-----------|-----------------------|
+|Abstract factory|Adapter    |Interpreter            |
+|Factory method  |Bridge     |Template method        |
+|Builder         |Composite  |Chain of responsability|
+|Prototype       |Decorator  |Iterator               |
+|Singleton       |Façade     |Command                |
+|                |Flyweight  |Mediator               |
+|                |Proxy      |Memento                |
+|                |           |Observer               |
+|                |           |State                  |
+|                |           |Strategy               |
+|                |           |Visitor                |
 
+### Links:
+
+- Creational:
+  - [Factory method](./src/creational/factory-method/FACTORY_METHOD.md)
+  - [Builder](./src/creational/builder/BUILDER.md)
+  - [Prototype](./src/creational/prototype/PROTOTYPE.md)
+  - [Singleton](./src/creational/singleton/SINGLETON.md)
