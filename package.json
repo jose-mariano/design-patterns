@@ -6,7 +6,8 @@
   "scripts": {
     "creational:singleton": "ts-node src/creational/singleton/index.ts",
     "creational:builder": "ts-node src/creational/builder/index.ts",
-    "creational:prototype": "ts-node src/creational/prototype/prototype-deepcopy/prototype-deep.ts"
+    "creational:prototype": "ts-node src/creational/prototype/prototype-deepcopy/prototype-deep.ts",
+    "creational:factory-method": "ts-node src/creational/factory-method/client-code.ts"
   },
   "keywords": [],
   "author": "",
