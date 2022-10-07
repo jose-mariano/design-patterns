@@ -45,3 +45,4 @@ São soluções prontas que padronizam a solução de problemas recorrentes.
   - [Builder](./src/creational/builder/BUILDER.md)
   - [Prototype](./src/creational/prototype/PROTOTYPE.md)
   - [Singleton](./src/creational/singleton/SINGLETON.md)
+  - [Abstract factory](./src/creational/abstract-factory/ABSTRACT_FACTORY.md)
