@@ -46,3 +46,5 @@ São soluções prontas que padronizam a solução de problemas recorrentes.
   - [Prototype](./src/creational/prototype/PROTOTYPE.md)
   - [Singleton](./src/creational/singleton/SINGLETON.md)
   - [Abstract factory](./src/creational/abstract-factory/ABSTRACT_FACTORY.md)
+- Structural:
+  - [Composite](./src/structural/composite/COMPOSITE.md)
