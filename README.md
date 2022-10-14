@@ -48,3 +48,4 @@ São soluções prontas que padronizam a solução de problemas recorrentes.
   - [Abstract factory](./src/creational/abstract-factory/ABSTRACT_FACTORY.md)
 - Structural:
   - [Composite](./src/structural/composite/COMPOSITE.md)
+  - [Adapter](./src/structural/adapter/ADAPTER.md)
