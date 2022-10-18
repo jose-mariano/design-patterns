@@ -49,3 +49,4 @@ São soluções prontas que padronizam a solução de problemas recorrentes.
 - Structural:
   - [Composite](./src/structural/composite/COMPOSITE.md)
   - [Adapter](./src/structural/adapter/ADAPTER.md)
+  - [Bridge](./src/structural/bridge/BRIDGE.md)
