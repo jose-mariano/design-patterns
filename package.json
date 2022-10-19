@@ -10,7 +10,8 @@
     "creational:factory-method": "ts-node src/creational/factory-method/client-code.ts",
     "creational:abstract-factory": "ts-node src/creational/abstract-factory/client-code.ts",
     "structural:composite": "ts-node src/structural/composite/product-composite",
-    "structural:adapter": "ts-node src/structural/adapter/client"
+    "structural:adapter": "ts-node src/structural/adapter/client",
+    "structural:bridge": "ts-node src/structural/bridge/main.ts"
   },
   "keywords": [],
   "author": "",
