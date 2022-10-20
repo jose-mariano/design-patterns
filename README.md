@@ -51,3 +51,4 @@ São soluções prontas que padronizam a solução de problemas recorrentes.
   - [Adapter](./src/structural/adapter/ADAPTER.md)
   - [Bridge](./src/structural/bridge/BRIDGE.md)
   - [Decorator](./src/structural/decorator/DECORATOR.md)
+  - [Facade](./src/structural/facade/FACADE.md)
