@@ -12,7 +12,8 @@
     "structural:composite": "ts-node src/structural/composite/product-composite",
     "structural:adapter": "ts-node src/structural/adapter/client",
     "structural:bridge": "ts-node src/structural/bridge/main.ts",
-    "structural:decorator": "ts-node src/structural/decorator/main.ts"
+    "structural:decorator": "ts-node src/structural/decorator/main.ts",
+    "structural:facade": "ts-node src/structural/facade/main.ts"
   },
   "keywords": [],
   "author": "",
