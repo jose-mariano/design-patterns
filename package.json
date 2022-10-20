@@ -11,7 +11,8 @@
     "creational:abstract-factory": "ts-node src/creational/abstract-factory/client-code.ts",
     "structural:composite": "ts-node src/structural/composite/product-composite",
     "structural:adapter": "ts-node src/structural/adapter/client",
-    "structural:bridge": "ts-node src/structural/bridge/main.ts"
+    "structural:bridge": "ts-node src/structural/bridge/main.ts",
+    "structural:decorator": "ts-node src/structural/decorator/main.ts"
   },
   "keywords": [],
   "author": "",

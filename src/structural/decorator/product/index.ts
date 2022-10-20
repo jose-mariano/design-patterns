@@ -1,0 +1,5 @@
+export * from './product-protocol'
+export * from './t-shirt'
+export * from './product-decorator'
+export * from './product-stamp-decorator'
+export * from './product-customization-decorator'
