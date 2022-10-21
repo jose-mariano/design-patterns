@@ -53,3 +53,4 @@ São soluções prontas que padronizam a solução de problemas recorrentes.
   - [Decorator](./src/structural/decorator/DECORATOR.md)
   - [Facade](./src/structural/facade/FACADE.md)
   - [Proxy](./src/structural/proxy/PROXY.md)
+  - [Flyweight](./src/structural/flyweight/FLYWEIGHT.md)
