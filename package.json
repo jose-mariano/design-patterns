@@ -14,7 +14,8 @@
     "structural:bridge": "ts-node src/structural/bridge/main.ts",
     "structural:decorator": "ts-node src/structural/decorator/main.ts",
     "structural:facade": "ts-node src/structural/facade/main.ts",
-    "structural:proxy": "ts-node src/structural/proxy/main.ts"
+    "structural:proxy": "ts-node src/structural/proxy/main.ts",
+    "structural:flyweight": "ts-node src/structural/flyweight/main.ts"
   },
   "keywords": [],
   "author": "",
