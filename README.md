@@ -54,3 +54,5 @@ São soluções prontas que padronizam a solução de problemas recorrentes.
   - [Facade](./src/structural/facade/FACADE.md)
   - [Proxy](./src/structural/proxy/PROXY.md)
   - [Flyweight](./src/structural/flyweight/FLYWEIGHT.md)
+- Behavioural:
+  - [Strategy](./src/behavioural/strategy/STRATEGY.md)
