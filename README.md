@@ -56,3 +56,4 @@ São soluções prontas que padronizam a solução de problemas recorrentes.
   - [Flyweight](./src/structural/flyweight/FLYWEIGHT.md)
 - Behavioural:
   - [Strategy](./src/behavioural/strategy/STRATEGY.md)
+  - [Command](./src/behavioural/command/COMMAND.md)
