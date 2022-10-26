@@ -17,7 +17,8 @@
     "structural:proxy": "ts-node src/structural/proxy/main.ts",
     "structural:flyweight": "ts-node src/structural/flyweight/main.ts",
     "behavioural:strategy": "ts-node src/behavioural/strategy/main.ts",
-    "behavioural:command": "ts-node src/behavioural/command/main.ts"
+    "behavioural:command": "ts-node src/behavioural/command/main.ts",
+    "behavioural:memento": "ts-node src/behavioural/memento/main.ts"
   },
   "keywords": [],
   "author": "",
