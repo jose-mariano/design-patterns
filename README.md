@@ -58,3 +58,4 @@ São soluções prontas que padronizam a solução de problemas recorrentes.
   - [Strategy](./src/behavioural/strategy/STRATEGY.md)
   - [Command](./src/behavioural/command/COMMAND.md)
   - [Memento](./src/behavioural/memento/MEMENTO.md)
+  - [State](./src/behavioural/state/STATE.md)
