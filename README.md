@@ -59,3 +59,4 @@ São soluções prontas que padronizam a solução de problemas recorrentes.
   - [Command](./src/behavioural/command/COMMAND.md)
   - [Memento](./src/behavioural/memento/MEMENTO.md)
   - [State](./src/behavioural/state/STATE.md)
+  - [Mediator](./src/behavioural/mediator/MEDIATOR.md)
