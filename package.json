@@ -19,7 +19,8 @@
     "behavioural:strategy": "ts-node src/behavioural/strategy/main.ts",
     "behavioural:command": "ts-node src/behavioural/command/main.ts",
     "behavioural:memento": "ts-node src/behavioural/memento/main.ts",
-    "behavioural:state": "ts-node src/behavioural/state/main.ts"
+    "behavioural:state": "ts-node src/behavioural/state/main.ts",
+    "behavioural:mediator": "ts-node src/behavioural/mediator/main.ts"
   },
   "keywords": [],
   "author": "",
