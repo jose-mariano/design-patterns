@@ -60,3 +60,4 @@ São soluções prontas que padronizam a solução de problemas recorrentes.
   - [Memento](./src/behavioural/memento/MEMENTO.md)
   - [State](./src/behavioural/state/STATE.md)
   - [Mediator](./src/behavioural/mediator/MEDIATOR.md)
+  - [Chain of responsibility](./src/behavioural/chain-of-responsibility/CHAIN_OF_RESPONSIBILITY.md)
