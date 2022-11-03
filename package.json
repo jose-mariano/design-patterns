@@ -20,7 +20,8 @@
     "behavioural:command": "ts-node src/behavioural/command/main.ts",
     "behavioural:memento": "ts-node src/behavioural/memento/main.ts",
     "behavioural:state": "ts-node src/behavioural/state/main.ts",
-    "behavioural:mediator": "ts-node src/behavioural/mediator/main.ts"
+    "behavioural:mediator": "ts-node src/behavioural/mediator/main.ts",
+    "behavioural:chain-of-responsibility": "ts-node src/behavioural/chain-of-responsibility/main.ts"
   },
   "keywords": [],
   "author": "",
