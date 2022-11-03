@@ -61,3 +61,4 @@ São soluções prontas que padronizam a solução de problemas recorrentes.
   - [State](./src/behavioural/state/STATE.md)
   - [Mediator](./src/behavioural/mediator/MEDIATOR.md)
   - [Chain of responsibility](./src/behavioural/chain-of-responsibility/CHAIN_OF_RESPONSIBILITY.md)
+  - [Template method](./src/behavioural/template-method/TEMPLATE_METHOD.md)
