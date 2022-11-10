@@ -63,3 +63,4 @@ São soluções prontas que padronizam a solução de problemas recorrentes.
   - [Chain of responsibility](./src/behavioural/chain-of-responsibility/CHAIN_OF_RESPONSIBILITY.md)
   - [Template method](./src/behavioural/template-method/TEMPLATE_METHOD.md)
   - [Observer](./src/behavioural/observer/OBSERVER.md)
+  - [Iterator](./src/behavioural/iterator/ITERATOR.md)
