@@ -64,3 +64,4 @@ São soluções prontas que padronizam a solução de problemas recorrentes.
   - [Template method](./src/behavioural/template-method/TEMPLATE_METHOD.md)
   - [Observer](./src/behavioural/observer/OBSERVER.md)
   - [Iterator](./src/behavioural/iterator/ITERATOR.md)
+  - [Visitor](./src/behavioural/visitor/VISITOR.md)
