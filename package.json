@@ -23,7 +23,8 @@
     "behavioural:mediator": "ts-node src/behavioural/mediator/main.ts",
     "behavioural:chain-of-responsibility": "ts-node src/behavioural/chain-of-responsibility/main.ts",
     "behavioural:template-method": "ts-node src/behavioural/template-method/main.ts",
-    "behavioural:iterator": "ts-node src/behavioural/iterator/main.ts"
+    "behavioural:iterator": "ts-node src/behavioural/iterator/main.ts",
+    "behavioural:visitor": "ts-node src/behavioural/visitor/main.ts"
   },
   "keywords": [],
   "author": "",
