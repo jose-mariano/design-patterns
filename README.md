@@ -65,3 +65,7 @@ São soluções prontas que padronizam a solução de problemas recorrentes.
   - [Observer](./src/behavioural/observer/OBSERVER.md)
   - [Iterator](./src/behavioural/iterator/ITERATOR.md)
   - [Visitor](./src/behavioural/visitor/VISITOR.md)
+
+### Agradecimentos:
+
+Esse projeto inteiro foi construído com o intuito de aprender e estudar os design patterns mais conhecidos na área de tecnologia. A documentação de cada design pattern assim como o exemplo prático de como o mesmo funciona foi retirado a partir da [playlist do youtube](https://www.youtube.com/playlist?list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H) criado por Otávio Miranda.
